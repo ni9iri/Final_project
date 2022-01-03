@@ -1,11 +1,8 @@
 .join-main-section {
+  width: 100vw;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   align-items: center;
-  flex-grow: 1rem;
-  display: grid;
-  grid-template-rows: auto 1fr 15%;
-  height: 100vh;
 }
 
 .join-text {
@@ -21,9 +18,10 @@
 
 .join-form {
   background-color: #7c7484;
-  width: 30vw;
-  max-width: 30%;
+  width: 20vw;
+  max-width: 20%;
   padding: 2rem 3rem;
+  margin: 4px 0;
   border-radius: 20px;
 }
 
