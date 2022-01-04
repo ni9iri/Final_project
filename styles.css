@@ -101,7 +101,7 @@ nav {
   justify-content: flex-end;
 }
 .home-main-section .lady-image {
-  background-image: url(/images/music_girl.png);
+  background-image: url('./images/music_girl.png');
   flex-grow: 1;
   max-height: 70vh;
   min-width: 30vw;
