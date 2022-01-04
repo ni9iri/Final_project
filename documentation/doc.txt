@@ -1,0 +1,21 @@
+ Student : Quyen Nguyen	Email : t1ngqu00students.oamk.fi
+
+Link to figma - https://www.figma.com/file/kbdBuGoGcAU6i1VZrVuW9R/WebAssignment?node-id=0%3A1
+Link to webpage (Github) –
+https://ni9iri.github.io/QSound_page/
+
+Document following :
+a. Threshold resolution for responsiveness 
+(max-width: 600px) - If the browser window is 600px or smaller, the background will act like mobile browser
+b. Colors for the page. Use color wheel for planning. 
+I have generated colors using this link - https://mycolor.space/?hex=%23845EC2&sub=1
+#4B4453 – background color for navigation bar and the main section
+#7C7484 – background color for footer
+#00C0FF – for click button “Join Now”
+#FF84DF – pink color for the word “ FUN “
+#FFFFFF – the white color I have used for the rest of font letters + icon’s color
+
+c. Typography: what fonts, font colors and main font sizes you will use.
+I have chosen Montserrat as my font and the font-family is called Balsamiq Sans.
+I used mainly color white as my font color and font size for the body is 1rem
+d. Add images of the UI mockups in the document and link to Figma design.
